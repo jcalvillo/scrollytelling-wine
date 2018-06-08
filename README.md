@@ -54,24 +54,24 @@ Based on these insights, create a visualization that can demonstrate these insig
 
 # sources
 
-## wine data // 2017
-wine enthusiast scrape by zackthoutt: https://github.com/zackthoutt/wine-deep-learning
-kaggle dataset used: https://www.kaggle.com/zynicide/wine-reviews/data
+## wine data // 2017  
+wine enthusiast scrape by zackthoutt: https://github.com/zackthoutt/wine-deep-learning  
+kaggle dataset used: https://www.kaggle.com/zynicide/wine-reviews/data  
 wine enthusiast magazine: https://www.winemag.com/   
   
-## trade data // 2014
-Observatory of Economic Complexity (https://atlas.media.mit.edu/en/)
-- Product Trade by Year and Country (4 digit depth): https://atlas.media.mit.edu/static/db/raw/year_origin_hs07_4.tsv.bz2
-- HS 2007 Product Names: https://atlas.media.mit.edu/static/db/raw/products_hs_07.tsv.bz2
-- Country Names: https://atlas.media.mit.edu/static/db/raw/country_names.tsv.bz2
-
-## tree-map
+## trade data // 2014  
+Observatory of Economic Complexity (https://atlas.media.mit.edu/en/)  
+- Product Trade by Year and Country (4 digit depth): https://atlas.media.mit.edu/static/db/raw/year_origin_hs07_4.tsv.bz2  
+- HS 2007 Product Names: https://atlas.media.mit.edu/static/db/raw/products_hs_07.tsv.bz2  
+- Country Names: https://atlas.media.mit.edu/static/db/raw/country_names.tsv.bz2  
+  
+## tree-map  
 inspiration:  
 - https://atlas.media.mit.edu/en/profile/hs92/2204  
   
 tutorials:  
 - https://www.youtube.com/watch?v=GzjTMSMtr70  
-
+  
 ## scrollytelling  
 inspiration:  
 - https://pudding.cool/2017/04/beer/  
@@ -83,11 +83,11 @@ tutorials:
 - https://pudding.cool/process/how-to-implement-scrollytelling/demo/scrollstory/  
 - https://pudding.cool/process/introducing-scrollama/  
 - http://vallandingham.me/scroller.html  
-
+  
 ## weighted scatterplot  
 inspiration:   
 - https://pudding.cool/2017/04/beer/  
   
 tutorials:  
 - https://pudding.cool/process/weighted-pivot-scatter-plot/  
-
+  
