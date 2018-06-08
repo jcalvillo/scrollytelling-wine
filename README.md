@@ -61,9 +61,9 @@ wine enthusiast magazine: https://www.winemag.com/
   
 ## trade data // 2014  
 Observatory of Economic Complexity (https://atlas.media.mit.edu/en/)  
-- Product Trade by Year and Country (4 digit depth): https://atlas.media.mit.edu/static/db/raw/year_origin_hs07_4.tsv.bz2  
-- HS 2007 Product Names: https://atlas.media.mit.edu/static/db/raw/products_hs_07.tsv.bz2  
-- Country Names: https://atlas.media.mit.edu/static/db/raw/country_names.tsv.bz2  
+Product Trade by Year and Country (4 digit depth): https://atlas.media.mit.edu/static/db/raw/year_origin_hs07_4.tsv.bz2  
+HS 2007 Product Names: https://atlas.media.mit.edu/static/db/raw/products_hs_07.tsv.bz2  
+Country Names: https://atlas.media.mit.edu/static/db/raw/country_names.tsv.bz2  
   
 ## tree-map  
 inspiration:  
