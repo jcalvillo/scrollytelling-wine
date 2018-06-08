@@ -62,12 +62,14 @@ kaggle:
 ## tree-map
 inspiration:  
 - https://atlas.media.mit.edu/en/profile/hs92/2204  
+  
 tutorials:  
 - https://www.youtube.com/watch?v=GzjTMSMtr70  
 
 ## scrollytelling  
 inspiration:  
 - https://pudding.cool/2017/04/beer/  
+  
 tutorials:  
 - https://www.youtube.com/watch?v=w4N_Rf0WwUI  
 - https://pudding.cool/process/how-to-implement-scrollytelling/  
@@ -79,6 +81,7 @@ tutorials:
 ## weighted scatterplot  
 inspiration:   
 - https://pudding.cool/2017/04/beer/  
+  
 tutorials:  
 - https://pudding.cool/process/weighted-pivot-scatter-plot/  
 
