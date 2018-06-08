@@ -1,13 +1,14 @@
 # scrollytelling-wine
-## W202 data visualization
-April Kim, Harry Xu, Jae Lee, Jesse Calvillo 
+---
 
-# description
+**W202 data visualization:** April Kim, Harry Xu, Jae Lee, Jesse Calvillo 
 
-## General idea: 
-1. scrollytelling
-2. tree-map
-3. weighted scatterplot
+---
+
+### general idea / description
+- scrollytelling
+- tree-map
+- weighted scatterplot
 
 ### scrollytelling
 - geographical map
@@ -23,8 +24,7 @@ April Kim, Harry Xu, Jae Lee, Jesse Calvillo
 - average wine score
 - filter: wine type
 
-# notes
-
+---
 
 # log
 
@@ -42,8 +42,9 @@ April Kim, Harry Xu, Jae Lee, Jesse Calvillo
   - Set out initial tasks
 
 ---
-# Sources
----
+
+# sources
+
 ## data source:
 kaggle:
 - https://www.kaggle.com/zynicide/wine-reviews
