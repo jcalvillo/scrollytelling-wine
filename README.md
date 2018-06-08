@@ -42,10 +42,10 @@
   - Set out initial tasks
 
 ---
-
+---
 # sources
 
-## data source:
+## data
 kaggle:
 - https://www.kaggle.com/zynicide/wine-reviews
 
@@ -55,7 +55,7 @@ inspiration:
 tutorials:
 - https://www.youtube.com/watch?v=GzjTMSMtr70
 
-## scrollytelling :
+## scrollytelling
 inspiration:
 - https://pudding.cool/2017/04/beer/
 tutorials:
