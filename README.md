@@ -1,14 +1,21 @@
 # scrollytelling-wine
 ---
+---
 
 **W202 data visualization:** April Kim, Harry Xu, Jae Lee, Jesse Calvillo 
 
 ---
+---
 
 ### general idea / description
-- scrollytelling
-- tree-map
-- weighted scatterplot
+The general idea is to take a set of wine review data and do exploratory data analysis.
+Based on these insights, create a visualization that can demonstrate these insights interactively to the user.
+
+1. scrollytelling
+2. tree-map
+3. weighted scatterplot
+
+
 
 ### scrollytelling
 - geographical map
@@ -25,6 +32,8 @@
 - filter: wine type
 
 ---
+---
+
 
 # log
 
@@ -43,6 +52,7 @@
 
 ---
 ---
+
 # sources
 
 ## data
