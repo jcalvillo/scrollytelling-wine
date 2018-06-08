@@ -17,16 +17,16 @@ Based on these insights, create a visualization that can demonstrate these insig
 
 
 
-### scrollytelling
+### 1. scrollytelling
 - geographical map
 - explanatory text (insights)
 
-### tree-map
+### 2. tree-map
 - size of rectangle is scaled with proportion of reviews,
 - each rectangle would have an “average overall score”, and
 - a callout would list “average scores by varietal” .. or something like that.
 
-### weighted scatterplot
+### 3. weighted scatterplot
 - geographical location (number of wines-reviews in a country)
 - average wine score
 - filter: wine type
@@ -45,6 +45,7 @@ Based on these insights, create a visualization that can demonstrate these insig
   Let's discuss this weekend when we get together:  
   - Ideas for this // should we do it as-proposed or are there other things everyone is interested in?  
   - Are we scraping new data down from the website? #python  
+  - Should we also pull in production or export data? ... so that our geographical data are not `amount of wine reviews` but `amount of wine produced`
   - Shall we devide the work (one team working on scrollytelling+map, tree-map, scatterplot)?  
   - Basic timeline for project  
   - What days work for people in general to meet?  
