@@ -44,8 +44,6 @@ Based on these insights, create a visualization that can demonstrate these insig
   
   Let's discuss this weekend when we get together:  
   - Ideas for this // should we do it as-proposed or are there other things everyone is interested in?  
-  - Are we scraping new data down from the website? #python  
-  - Should we also pull in production or export data? ... so that our geographical data are not `amount of wine reviews` but `amount of wine produced`
   - Shall we devide the work (one team working on scrollytelling+map, tree-map, scatterplot)?  
   - Basic timeline for project  
   - What days work for people in general to meet?  
@@ -56,9 +54,16 @@ Based on these insights, create a visualization that can demonstrate these insig
 
 # sources
 
-## data  
-kaggle:  
-- https://www.kaggle.com/zynicide/wine-reviews  
+## wine data // 2017
+wine enthusiast scrape by zackthoutt: https://github.com/zackthoutt/wine-deep-learning
+kaggle dataset used: https://www.kaggle.com/zynicide/wine-reviews/data
+wine enthusiast magazine: https://www.winemag.com/   
+  
+## trade data // 2014
+Observatory of Economic Complexity (https://atlas.media.mit.edu/en/)
+- Product Trade by Year and Country (4 digit depth): https://atlas.media.mit.edu/static/db/raw/year_origin_hs07_4.tsv.bz2
+- HS 2007 Product Names: https://atlas.media.mit.edu/static/db/raw/products_hs_07.tsv.bz2
+- Country Names: https://atlas.media.mit.edu/static/db/raw/country_names.tsv.bz2
 
 ## tree-map
 inspiration:  
