@@ -1,5 +1,2 @@
-# ignore data
-data/
-
 # ignore macOS stuff
 *.DS_Store
