@@ -1,4 +1,28 @@
+#title {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  text-align: center;
+}
 
-svg {
-  font: 10px sans-serif;
+#worldmap {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  overflow: auto;
+}
+
+.countries {
+  fill: none;
+  stroke: #fff;
+  stroke-linejoin: round;
+}
+.legendThreshold {
+    font-size: 12px;
+    font-family: sans-serif;
+}
+.caption {
+    fill: #000;
+    text-anchor: start;
+    font-weight: bold;
 }
