@@ -2,11 +2,13 @@
 ---
 ---
 
-**W202 data visualization:** April Kim, Harry Xu, Jae Lee, Jesse Calvillo 
-users: anyone interested in wine
-data:  wine review and wine export data
-tasks: explore the relationship between *quantity* and *quality* of wine around the world
-insights: e.g. "italy exports more wines than spain but on average they are rated lower quality"
+**W202 data visualization:**  
+  
+  _contributors:_ April Kim, Harry Xu, Jae Lee, Jesse Calvillo  
+  _users:_ anyone interested in wine  
+  _data:_  wine review and wine export data  
+  _tasks:_ explore the relationship between *quantity* and *quality* of wine around the world  
+  _insights:_ e.g. "italy exports more wines than spain but on average they are rated lower quality"  
 
 
 ---
