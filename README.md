@@ -55,7 +55,7 @@ Based on these insights, create a visualization that can demonstrate these insig
   - Set out initial tasks  
 
 **[10 June 2018]**    
-  Nothing was over 100MB; added the data/ folder -jlc . 
+  Nothing was over 100MB; added the data/ folder -jlc  
   idea: if this goes well, we can use probably use `github pages` and jekyll (python) to host the site for free.  
   
 ---
