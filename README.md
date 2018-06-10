@@ -42,7 +42,7 @@ Based on these insights, create a visualization that can demonstrate these insig
 
 # log
 
-**[7 June 2018]**    
+**[7 June 2018]** -jlc    
   We can keep track of updates + tasks on this README.  
   Basic web structure (html, css, js) created.  
   Readme created.  
@@ -54,9 +54,10 @@ Based on these insights, create a visualization that can demonstrate these insig
   - What days work for people in general to meet?  
   - Set out initial tasks  
 
-**[10 June 2018]**    
-  Nothing was over 100MB; added the data/ folder -jlc  
+**[10 June 2018]** -jlc    
+  Nothing was over 100MB; added the data/ folder   
   idea: if this goes well, we can use probably use `github pages` and jekyll (python) to host the site for free.  
+  - added a chloropleth with dummy data and hover function as a stand-in  
   
 ---
 ---
