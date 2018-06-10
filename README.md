@@ -3,6 +3,11 @@
 ---
 
 **W202 data visualization:** April Kim, Harry Xu, Jae Lee, Jesse Calvillo 
+users: anyone interested in wine
+data:  wine review and wine export data
+tasks: explore the relationship between *quantity* and *quality* of wine around the world
+insights: e.g. "italy exports more wines than spain but on average they are rated lower quality"
+
 
 ---
 ---
@@ -21,7 +26,7 @@ Based on these insights, create a visualization that can demonstrate these insig
 - geographical map
 - explanatory text (insights)
 
-### 2. tree-map
+### 2. tree-map [to be decided] 
 - size of rectangle is scaled with proportion of reviews,
 - each rectangle would have an “average overall score”, and
 - a callout would list “average scores by varietal” .. or something like that.
