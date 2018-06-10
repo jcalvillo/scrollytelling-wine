@@ -16,13 +16,7 @@
 
 ### general idea / description
 The general idea is to take a set of wine review data and do exploratory data analysis.
-Based on these insights, create a visualization that can demonstrate these insights interactively to the user.
-
-1. scrollytelling
-2. tree-map
-3. weighted scatterplot
-
-
+Based on these insights, create a visualization that can demonstrate these insights interactively to the user in different ways.
 
 ### 1. scrollytelling
 - geographical map
@@ -37,6 +31,10 @@ Based on these insights, create a visualization that can demonstrate these insig
 - geographical location (number of wines-reviews in a country)
 - average wine score
 - filter: wine type
+
+### 4. chloropleth map [to be decided]
+- threshold quantized, or linear color scale for each country
+- hover details
 
 ---
 ---
