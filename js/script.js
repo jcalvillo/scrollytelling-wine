@@ -15,7 +15,7 @@ var path = d3.geoPath()
 
 // Data and color scale
 var data = d3.map();
-var colorScheme = d3.schemeReds[6];
+var colorScheme = d3.schemeBlues[6];
 colorScheme.unshift("rgba(237, 237, 237, 0.25)")
 var colorScale = d3.scaleThreshold()
     .domain([1, 6, 11, 26, 101, 1001])
@@ -24,7 +24,7 @@ var colorScale = d3.scaleThreshold()
 // Legend
 var g = svg.append("g")
     .attr("class", "legendThreshold")
-    .attr("transform", "translate(20,20)");
+    .attr("transform", "translate(20,200)");
 g.append("text")
     .attr("class", "caption")
     .attr("x", 0)
@@ -59,7 +59,14 @@ function ready(error, topo) {
                 // Set the color
                 return colorScale(d.total);
             })
-            .attr("d", path);
+            .attr("d", path)
+         .on("mouseover", function() {d3.select(this)
+                                          .attr("stroke","red")
+                                          .attr("stroke-width","0.25");
+                                      })
+         .on("mouseout", function() {d3.select(this)
+                                          .attr("stroke","none")});
+
 }
 
 
