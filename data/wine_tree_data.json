@@ -1,0 +1,43 @@
+{
+  "name": "Red",
+  "children": [
+    {
+      "name": "USA",
+      "children": [
+        {
+          "name": "California",
+          "children": [
+            {"name": "Pinot Noir",
+                      "children": [{"name":"Martinelli"},
+                                   {"name":"Sea Smoke"}]},
+
+            {"name": "Cabernet Sauvignon"},
+
+            {"name": "Merlot"},
+            {"name": "Zinfadel"}
+          ]
+        },
+        {
+          "name": "Oregon",
+          "children": [
+            {"name": "Pinot Noir"},
+            {"name": "Cabernet Sauvignon"},
+            {"name": "Merlot"}
+          ]
+        },
+        {
+          "name": "New York",
+          "children": [
+            {"name": "Cabernet Sauvignon"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Argentina",
+      "children": [
+        {"name": "Mendoza"},
+        {"name": "Cordoba"}]
+    }
+  ]
+}
