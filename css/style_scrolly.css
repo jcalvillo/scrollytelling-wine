@@ -1,5 +1,6 @@
 .container {
-    width: 890px;
+    width: 100%;
+    margin:0 100px;
 }
 
 #graphic {
@@ -10,7 +11,7 @@
 #sections {
     position: relative;
     display: inline-block;
-    width: 250px;
+    width: 350px;
     top: 0px;
     z-index: 90;
     padding-bottom: 200px;
@@ -43,9 +44,9 @@
     top: 60px;
     z-index: 1;
     margin-left: 0;
-    /* height: 600px; */
-    /* width: 600px; */
-    /* background-color: #ddd; */
+     height: 600px;
+     width: 600px;
+
 }
 
 #vis .title {
