@@ -5,6 +5,10 @@
     <title>A Beginner's Guide to Wine</title>
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css"/>
     <link rel="stylesheet" type="text/css" href="css/style_scrolly.css"/>
+    <link rel="stylesheet" type="text/css" href="css/wine_tree.css"/>
+    <link rel="stylesheet" type="text/css" href="css/wine-map.css"/>
+    <link rel="stylesheet" type="text/css" href="css/wine_taste_network.css"/>
+
 </head>
 <body>
 
@@ -13,40 +17,46 @@
         <div id='sections'>
             <section class="step">
                 <div class="title">Some Wine Basics</div>
-                Pinot Noir<br/><br/>Cabernet Sauvignon
             </section>
             <section class="step">
                 <div class="title">Varietals</div>
-                Different Types of Wines
+                Wine is made with grapes, but not typical table grapes you’ll find at the grocery. Wine grapes (latin name: Vitis vinifera)
+                have thick skins, are small, sweet, and contain seeds. There are over a thousand kinds of wine grapes planted around the world.
             </section>
             <section class="step">
                 <div class="title">Regions</div>
-                Different Regions
+                Wine is made in virtually every country in the world. These countries are often referred to as “Old World” or “New World.”
+                “Old World” consists of regions with long histories of wine production, such as Europe and parts of the Mediterranean.
+                Some of the most well-known “Old World” wine regions include France, Italy and Germany, and these regions focus greatly
+                on terroir—the unique characteristics of the soil and climate, which give their wine a sense of place. “New World”
+                is used to describe newer wine-producing regions, such as U.S., Australia and Chile.
+                These regions tend to have hotter climates and generally use different labeling methods; they tend to use grapes
+                rather than region on labels for recognition.
             </section>
             <section class="step">
-                <div class="title">Producers</div>
-                Various Producers
+                <div class="title">Blends and Single Varietals</div>
+               Some countries are famous for producing one varietal while other countries have different sub-regions - each renowned for
+                an unique blend. As an example, Bordeaux, a classic region in France, is typically a blend of the varietals
+                Cabernet Franc, Cabernet Sauvignon and Merlot.
             </section>
             <section class="step">
-                <div class="title">Pricing</div>
-                The most expensive regions, varietals are
+                <div class="title">How to Taste Wine</div>
+                The ability to sniff out and untangle the subtle threads that weave into complex wine aromas is essential for tasting.
+                Try holding your nose while you swallow a mouthful of wine; you will find that most of the flavor is muted. Your nose is the key to your palate.
+                Once you learn how to give wine a good sniff, you’ll begin to develop the ability to isolate flavors—to notice the way
+                they unfold and interact—and, to some degree, assign language to describe them.
             </section>
             <section class="step">
-                <div class="title">Reviews</div>
-                Here some common words for reviews
+                <div class="title">Pairing Wines</div>
+                Wine flavors are derived from specific components: sugar, acid, fruit, tannin and alcohol.
+                Foods also have flavor components, such as fat, acid, salt, sugar and bitter.
+                The most successful food and wine pairings feature complementary components, richness and textures.
+                You can try for either a similar pairing or a contrasting one. For pasta in a rich cream sauce, for example,
+                you could cut through the creamy fat with a crisp, dry, unoaked white wine. Or you could wrap the flavor of the
+                wine around the richness of the sauce by choosing a big, ripe, soft Chardonnay or Roussanne/Marsanne blend.
+                Of course you’ll need to brush up on white wine and red wine basics  to understand the flavors of each grape.
             </section>
-            <section class="step">
-                <div class="title">Where are we now</div>
-                Endless possibilities of wines
-            </section>
-            <section class="step">
-                <div class="title">Where to buy wine</div>
-                Some popular shops
-            </section>
-            <section class="step">
-                <div class="title">Conclusion</div>
-                Keep on drinking!
-            </section>
+
         </div>
         <div id='vis'>
         </div>
@@ -56,8 +66,18 @@
 </div>
 
 <script src="js/d3/d3.js"></script>
+
+<script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+<script src="https://d3js.org/d3-geo-projection.v2.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.24.0/d3-legend.js"></script>
+
 <script src="js/scroller.js"></script>
-<script src="js/sections.js"></script>
+<script src="js/wine_tree.js?1"></script>
+<script src="js/title.js?1"></script>
+<script src="js/wine-map.js?1"></script>
+<script src="js/filler-title.js?1"></script>
+<script src="js/wine_taste_network.js?1"></script>
+<script src="js/sections.js?1"></script>
 
 </body>
 </html>
