@@ -14,6 +14,8 @@
 ---
 ---
 
+![alt text](http://people.ischool.berkeley.edu/~aprilkim/img/hp.png)
+
 ### general idea / description
 The general idea is to take a set of wine review data and do exploratory data analysis.
 Based on these insights, create a visualization that can demonstrate these insights interactively to the user in different ways.
