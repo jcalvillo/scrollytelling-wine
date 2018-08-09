@@ -1,20 +1,12 @@
-# scrollytelling-wine
+# Learn from 130,000+ wine reviews
 ---
----
-
-**W202 data visualization:**  
+**W209 Data Visualization:**  
   
-  _contributors:_ April Kim, Harry Xu, Jae Lee, Jesse Calvillo  
-  _users:_ anyone interested in wine  
-  _data:_  wine review and wine export data  
-  _tasks:_ explore the relationship between *quantity* and *quality* of wine around the world  
-  _insights:_ e.g. "italy exports more wines than spain but on average they are rated lower quality"  
-
-
----
+  _contributors:_ Jesse Calvillo, April Kim, Jae Lee, Harry Xu    
+ 
 ---
 
-![alt text](http://people.ischool.berkeley.edu/~aprilkim/img/hp.png)
+![alt text](http://people.ischool.berkeley.edu/~aprilkim/img/hp.png =250x250)
 ![alt Text](http://people.ischool.berkeley.edu/~aprilkim/img/scrolly1.gif)
 ![alt Text](http://people.ischool.berkeley.edu/~aprilkim/img/varietals.gif)
 ![alt Text](http://people.ischool.berkeley.edu/~aprilkim/img/parallelcoord.gif)
