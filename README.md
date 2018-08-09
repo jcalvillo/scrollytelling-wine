@@ -1,9 +1,6 @@
 # Learn from 130,000+ wine reviews
 
 **W209 Data Visualization:** by Jesse Calvillo, April Kim, Jae Lee, Harry Xu    
- 
----
-
 
 We have made a kaggle data set of Wine Ethusiast Magazine reviews available for the public and industry folk.
 Our wine guide walks through background information and we've built some dashbaords so you can explore the reviews yourself.
