@@ -1,8 +1,6 @@
 # Learn from 130,000+ wine reviews
 
-**W209 Data Visualization:**  
-  
-  _contributors:_ Jesse Calvillo, April Kim, Jae Lee, Harry Xu    
+**W209 Data Visualization:** by Jesse Calvillo, April Kim, Jae Lee, Harry Xu    
  
 ---
 
