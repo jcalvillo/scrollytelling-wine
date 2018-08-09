@@ -6,13 +6,14 @@
  
 ---
 
-![alt text](http://people.ischool.berkeley.edu/~aprilkim/img/hp.png =250x250)
-![alt Text](http://people.ischool.berkeley.edu/~aprilkim/img/scrolly1.gif)
-![alt Text](http://people.ischool.berkeley.edu/~aprilkim/img/varietals.gif)
-![alt Text](http://people.ischool.berkeley.edu/~aprilkim/img/parallelcoord.gif)
-![alt Text](http://people.ischool.berkeley.edu/~aprilkim/img/pinot.gif)
+![alt text](http://people.ischool.berkeley.edu/~aprilkim/img/hp.png)
 
+We have made a kaggle data set of Wine Ethusiast Magazine reviews available for the public and industry folk.
+Our wine guide walks through background information and we've built some dashbaords so you can explore the reviews yourself.
 
+Wine Overview |  Explore Varietals | What's on the shelf? | Learn about pinot |
+:------------:|:------------------:|:--------------------:|------------------:|
+![](http://people.ischool.berkeley.edu/~aprilkim/img/scrolly1.gif)  |  ![](http://people.ischool.berkeley.edu/~aprilkim/img/varietals.gif) | ![](http://people.ischool.berkeley.edu/~aprilkim/img/parallelcoord.gif) | ![](http://people.ischool.berkeley.edu/~aprilkim/img/pinot.gif)
 
 
 ### general idea / description
