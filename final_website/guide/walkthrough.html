@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8">
+    <title>Wine Reviews</title>
+    <link rel="stylesheet" type="text/css" href="style_scrolly.css"/>
+    <link rel="stylesheet" type="text/css" href="wine_tree.css"/>
+    <link rel="stylesheet" type="text/css" href="wine-map.css"/>
+    <link rel="stylesheet" type="text/css" href="wine_taste_network.css"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- Bootstrap core CSS -->
+    <link href="../vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Custom styles for this template -->
+    <link href="../css/heroic-features.css" rel="stylesheet">
+
+  </head>
+
+  <!-- Navigation -->
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+
+      <div class="container">
+        <a class="navbar-brand" href="../index.html">Wine Enthusiast Reviews</a>
+        </button>
+      </div>
+
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item active">
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="../guide/walkthrough.html">Guide</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="../dashboards/gallery">Reviews</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+
+  <!-- SCROLLYTELLING -->
+  <div class="container">
+      <div id='graphic'>
+          <div id='sections'>
+              <section class="step">
+                  <div class="title">Some Wine Basics</div>
+              </section>
+              <section class="step">
+                  <div class="title">Varietals</div>
+                  Wine is made with grapes, but not typical table grapes you’ll find at the grocery. Wine grapes (latin name: Vitis vinifera)
+                  have thick skins, are small, sweet, and contain seeds. There are over a thousand kinds of wine grapes planted around the world.
+              </section>
+              <section class="step">
+                  <div class="title">Regions</div>
+                  Wine is made in virtually every country in the world. These countries are often referred to as “Old World” or “New World.”
+                  “Old World” consists of regions with long histories of wine production, such as Europe and parts of the Mediterranean.
+                  Some of the most well-known “Old World” wine regions include France, Italy and Germany, and these regions focus greatly
+                  on terroir—the unique characteristics of the soil and climate, which give their wine a sense of place. “New World”
+                  is used to describe newer wine-producing regions, such as U.S., Australia and Chile.
+                  These regions tend to have hotter climates and generally use different labeling methods; they tend to use grapes
+                  rather than region on labels for recognition.
+              </section>
+              <section class="step">
+                  <div class="title">Blends and Single Varietals</div>
+                 Some countries are famous for producing one varietal while other countries have different sub-regions - each renowned for
+                  an unique blend. As an example, Bordeaux, a classic region in France, is typically a blend of the varietals
+                  Cabernet Franc, Cabernet Sauvignon and Merlot.<br/><br/>
+                  <i>click a country, see what happens! --> </i>
+              </section>
+              <section class="step">
+                  <div class="title">How to Taste Wine</div>
+                  The ability to sniff out and untangle the subtle threads that weave into complex wine aromas is essential for tasting.
+                  Try holding your nose while you swallow a mouthful of wine; you will find that most of the flavor is muted. Your nose is the key to your palate.
+                  Once you learn how to give wine a good sniff, you’ll begin to develop the ability to isolate flavors—to notice the way
+                  they unfold and interact—and, to some degree, assign language to describe them.<br/><br/>
+                  <i>hover over a wine in the center, see what happens! --></i>
+              </section>
+              <section class="step">
+                  <div class="title">Pairing Wines</div>
+                  Wine flavors are derived from specific components: sugar, acid, fruit, tannin and alcohol.
+                  Foods also have flavor components, such as fat, acid, salt, sugar and bitter.
+                  The most successful food and wine pairings feature complementary components, richness and textures.
+                  You can try for either a similar pairing or a contrasting one. For pasta in a rich cream sauce, for example,
+                  you could cut through the creamy fat with a crisp, dry, unoaked white wine. Or you could wrap the flavor of the
+                  wine around the richness of the sauce by choosing a big, ripe, soft Chardonnay or Roussanne/Marsanne blend.
+                  Of course you’ll need to brush up on white wine and red wine basics  to understand the flavors of each grape.
+              </section>
+              <section class="step">
+                  <div class="title">Dive into the Data</div>
+                  We've made reviews from Wine Enthusiast available in an interactive "dashboard" format to allow you to learn and explore.
+                  Go to the dashboards to keep learning!<br/></br>
+                  <a href="../dashboards/gallery.html" style="color: #fff; background-color: #8D6D6F; border-color: #5A4353; border:none; text-align: center; display:inline-block; font-size:16px; padding:32px 16px;">go to reviews!</a>
+              </section>
+
+          </div>
+          <div id='vis'>
+          </div>
+          <div id="extra-space">
+          </div>
+      </div>
+  </div>
+
+
+
+  <!-- FOOTER -->
+  <br/><br/>
+  <footer class="footer">
+    <div class="container">
+
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item active">
+        </li>
+          <a class="nav-link" href="https://github.com/jcalvillo/scrollytelling-wine" style="color: #8D6D6F;width:  100%;text-align: center;">github repo</a>
+        </li>
+      </ul>
+    </div>
+  </footer>
+
+<!-- Bootstrap core JavaScript -->
+<script src="../vendor/jquery/jquery.min.js"></script>
+<script src="../vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+<!-- HARRY -->
+<script src="d3/d3.js"></script>
+<script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+<script src="https://d3js.org/d3-geo-projection.v2.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.24.0/d3-legend.js"></script>
+<script src="scroller.js"></script>
+<script src="wine_tree.js?1"></script>
+<script src="title.js?1"></script>
+<script src="wine-map.js?1"></script>
+<script src="filler-title.js?1"></script>
+<script src="wine_taste_network.js?1"></script>
+<script src="sections.js?1"></script>
+
+</body>
+
+</html>
