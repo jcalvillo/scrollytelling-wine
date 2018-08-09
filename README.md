@@ -15,6 +15,13 @@
 ---
 
 ![alt text](http://people.ischool.berkeley.edu/~aprilkim/img/hp.png)
+![alt Text](http://people.ischool.berkeley.edu/~aprilkim/img/scrolly1.gif)
+![alt Text](http://people.ischool.berkeley.edu/~aprilkim/img/varietals.gif)
+![alt Text](http://people.ischool.berkeley.edu/~aprilkim/img/parallelcoord.gif)
+![alt Text](http://people.ischool.berkeley.edu/~aprilkim/img/pinot.gif)
+
+
+
 
 ### general idea / description
 The general idea is to take a set of wine review data and do exploratory data analysis.
