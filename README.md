@@ -1,6 +1,8 @@
 # Learn from 130,000+ wine reviews
 
-**W209 Data Visualization** by Jesse Calvillo, April Kim, Jae Lee, Harry Xu    
+**W209 Data Visualization** by Jesse Calvillo, April Kim, Jae Lee, Harry Xu   
+
+**Hosted:** http://people.ischool.berkeley.edu/~jlc/wine/
 
 ## Description: ##
 We have made a kaggle data set of Wine Ethusiast Magazine reviews available for the public and industry folk.
