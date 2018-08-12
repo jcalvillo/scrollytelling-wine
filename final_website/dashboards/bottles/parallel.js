@@ -210,7 +210,7 @@ function create_legend(colors,brush) {
 
   legend
   .append("span")
-  .text(function(d,i) { return " " + d});
+  .text(function(d,i) { return " " + " (" + d + ")"});
 
   return legend;
 }
@@ -310,9 +310,6 @@ function data_table_region(sample_region_data){
     return 1
     return 0 //default return value (no sorting)
   });
-  console.log("sample_grp_var_title");
-
-  console.log(sample_grp_var_title);
 
 
   var table = d3.select("#wine-region")
@@ -375,6 +372,9 @@ function data_table_wine_title(sample_data) {
   table
   .append("span")
   .text(function(d) { return d.title; })
+  .on("click", function(d) {
+    window.open("http://www.google.com/search?q="+d.title); });
+  .on("mouseover", )
 }
 
 
